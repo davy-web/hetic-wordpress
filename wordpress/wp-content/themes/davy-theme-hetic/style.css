@@ -1,0 +1,16 @@
+/*
+Theme Name: Theme Davy
+Theme URI: https://fr.wordpress.org
+Author: Davy CHEN
+Author URI: https://fr.wordpress.org
+Description: Un theme simple
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+}
